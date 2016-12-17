@@ -1,4 +1,3 @@
 theme: jekyll-theme-leap-day
 title: Dog Dating App
 description: An Android app (and server interface) that allows users to find dogs and arrange dates with them.
-show_downloads: true
