@@ -1,14 +1,9 @@
-# Date-A-Dog
+# Dog Dating App
 
-### Please visit https://date-a-dog.github.io/ to download user guides for daters and shelters.
-### Please visit https://date-a-dog.github.io/developers for help and to view the developer guide.
+### Please visit https://jammua.github.io/dog-dating-app/ for help and to view the developer guide.
 
 ## Build Status
-### [![Build Status](https://travis-ci.org/Date-A-Dog/Date-A-Dog.svg?branch=master)](https://travis-ci.org/Date-A-Dog/Date-A-Dog)
+### [![Build Status](https://travis-ci.org/jammua/dog-dating-app.svg?branch=master)](https://travis-ci.org/jammua/)
 
-## App Screenshots
-![Android Login](/screenshots/android_swipe_screen.png)  ![Android Liked Dogs](/screenshots/android_liked_dogs_screen.png)  ![Android Dog Profile](/screenshots/android_dog_profile_screen.png)
-
-## Shelter Website Screenshots
-![Shelter Requests](/screenshots/shelter_requests.png)
-![Shelter History](/screenshots/shelter_history.png)
+## Screenshots
+![Android Login](/screenshots/login_screen.png)  ![Android Swipe Dogs](/screenshots/swipe_dogs_screen.png)  ![Android Liked Dogs](/screenshots/liked_dogs_screen.png)  ![Android Dog Profile](/screenshots/dog_profile_screen.png)
