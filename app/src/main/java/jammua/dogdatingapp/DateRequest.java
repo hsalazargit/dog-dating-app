@@ -1,4 +1,4 @@
-package dogdatingapp;
+package jammua.dogdatingapp;
 
 import java.io.Serializable;
 import java.util.Date;

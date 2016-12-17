@@ -1,4 +1,4 @@
-package dogdatingapp.swipecard;
+package jammua.dogdatingapp.swipecard;
 
 import android.content.Context;
 import android.util.AttributeSet;

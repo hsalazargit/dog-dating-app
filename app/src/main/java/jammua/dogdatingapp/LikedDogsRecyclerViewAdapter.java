@@ -1,4 +1,4 @@
-package dogdatingapp;
+package jammua.dogdatingapp;
 
 import android.app.Activity;
 import android.content.Intent;

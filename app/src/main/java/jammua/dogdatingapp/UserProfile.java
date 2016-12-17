@@ -1,4 +1,4 @@
-package dogdatingapp;
+package jammua.dogdatingapp;
 
 import org.json.JSONException;
 import org.json.JSONObject;

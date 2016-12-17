@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Dog Dating App</string>
-    <string name="facebook_app_id">1105437202885536</string>
-    <string name="fb_login_protocol_scheme">fb1105437202885536</string>
+    <string name="facebook_app_id">1105437202885530</string>
+    <string name="fb_login_protocol_scheme">fb1105437202885530</string>
     <string name="title_activity_confirm_request">Confirm Request</string>
     <string name="title_activity_dog_swipe">@string/find_dogs</string>
     <string name="title_activity_login">@string/app_name</string>

@@ -1,4 +1,4 @@
-package dogdatingapp.swipecard;
+package jammua.dogdatingapp.swipecard;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -12,7 +12,7 @@ import android.view.View;
 import android.widget.Adapter;
 import android.widget.FrameLayout;
 
-import dogdatingapp.R;
+import jammua.dogdatingapp.R;
 
 /**
  * Created by dionysis_lorentzos on 5/8/14

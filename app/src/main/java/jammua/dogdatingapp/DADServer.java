@@ -1,4 +1,4 @@
-package dogdatingapp;
+package jammua.dogdatingapp;
 
 import android.content.Context;
 import android.os.AsyncTask;

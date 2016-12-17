@@ -1,4 +1,4 @@
-package dogdatingapp;
+package jammua.dogdatingapp;
 
 /**
  * This class stores the data necessary to display a single dog card.
