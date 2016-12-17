@@ -1,4 +1,4 @@
-package dateadog.dateadog;
+package dogdatingapp;
 
 import android.app.Dialog;
 import android.content.DialogInterface;

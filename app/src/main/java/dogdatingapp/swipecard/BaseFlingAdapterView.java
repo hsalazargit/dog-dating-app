@@ -1,4 +1,4 @@
-package dateadog.dateadog.tindercard;
+package dogdatingapp.swipecard;
 
 import android.content.Context;
 import android.util.AttributeSet;

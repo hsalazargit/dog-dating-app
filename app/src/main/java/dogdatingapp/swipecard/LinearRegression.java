@@ -1,4 +1,4 @@
-package dateadog.dateadog.tindercard;
+package dogdatingapp.swipecard;
 
 /**
  * **********************************************************************

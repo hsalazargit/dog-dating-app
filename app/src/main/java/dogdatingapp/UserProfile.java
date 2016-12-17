@@ -1,4 +1,4 @@
-package dateadog.dateadog;
+package dogdatingapp;
 
 import org.json.JSONException;
 import org.json.JSONObject;

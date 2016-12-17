@@ -1,4 +1,4 @@
-package dateadog.dateadog;
+package dogdatingapp;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -16,7 +16,7 @@ import com.bumptech.glide.Glide;
 import java.util.ArrayList;
 import java.util.List;
 
-import dateadog.dateadog.tindercard.SwipeFlingAdapterView;
+import dogdatingapp.swipecard.SwipeFlingAdapterView;
 
 /**
  * Use the {@link SwipeDogsFragment#newInstance} factory method to

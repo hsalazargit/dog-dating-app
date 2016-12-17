@@ -1,4 +1,4 @@
-package dateadog.dateadog.tindercard;
+package dogdatingapp.swipecard;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -12,7 +12,7 @@ import android.view.View;
 import android.widget.Adapter;
 import android.widget.FrameLayout;
 
-import dateadog.dateadog.R;
+import dogdatingapp.R;
 
 /**
  * Created by dionysis_lorentzos on 5/8/14

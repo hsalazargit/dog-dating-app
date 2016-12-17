@@ -1,4 +1,4 @@
-package dateadog.dateadog;
+package dogdatingapp;
 
 import android.content.Context;
 import android.graphics.Bitmap;

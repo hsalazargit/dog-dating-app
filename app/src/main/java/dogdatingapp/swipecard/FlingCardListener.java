@@ -1,4 +1,4 @@
-package dateadog.dateadog.tindercard;
+package dogdatingapp.swipecard;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -9,8 +9,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.animation.AccelerateInterpolator;
 import android.view.animation.OvershootInterpolator;
-
-import dateadog.dateadog.SwipeDogsFragment;
 
 /**
  * Created by dionysis_lorentzos on 5/8/14

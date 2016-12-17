@@ -3,7 +3,7 @@
  * All rights reserved.                 *
  ***************************************/
 
-package dateadog.dateadog;
+package dogdatingapp;
 
 import android.content.Context;
 import android.os.AsyncTask;
