@@ -1,8 +1,3 @@
-/****************************************
- * Copyright (c) 2016 Date-A-Dog.       *
- * All rights reserved.                 *
- ***************************************/
-
 package dogdatingapp;
 
 import android.content.Context;
@@ -32,7 +27,7 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- * DADServer communicates with the DAD server to retrieve and update data about dog profiles and users.
+ * DADServer communicates with the server to retrieve and update data about dog profiles and users.
  */
 public class DADServer {
 
@@ -41,7 +36,7 @@ public class DADServer {
     /** Used to identify this class in logging messages. */
     private static String TAG = DADServer.class.getName();
     /** URLs for server endpoints. */
-    private static String DAD_SERVER_URL_BASE = "http://ec2-35-160-226-75.us-west-2.compute.amazonaws.com/api/";
+    private static String DAD_SERVER_URL_BASE = "localhost/api/";
     private static String GET_NEXT_DOGS_URL = DAD_SERVER_URL_BASE + "getNextDogs";
     private static String GET_LIKED_DOGS_URL = DAD_SERVER_URL_BASE + "getLikedDogs";
     private static String JUDGE_DOG_URL = DAD_SERVER_URL_BASE + "judgeDog";
